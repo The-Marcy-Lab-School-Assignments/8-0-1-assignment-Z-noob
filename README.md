@@ -1,4 +1,5 @@
 # Build a Static Web Server Using Express!
+Can't access repo  settings because "on the main page of the repository, look for the "Settings" tab. It is usually located in the right-hand side of the repository menu, next to 'Insights' and 'Security.'" So, here's link: https://eight-0-1-assignment-10hh.onrender.com
 
 In this assignment, you will be tasked with creating and deploying a simple Express server. The server will have four GET endpoints, two that serve HTML and two that serve raw data. One of those data endpoints will use query parameters.
 
