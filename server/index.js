@@ -49,7 +49,7 @@ const serveData = (req, res, next) => {
 }
 
 // endpoints
-app.use(serveStatic); //better to have use before get?
+app.use(serveStatic); //better to have use before get? ----> YES!
 app.use(logRoutes) 
 app.get('/no', serveIndex);
 app.get('/about', serveAbout);
